@@ -1,0 +1,3 @@
+* Pinstack
+
+This is hobby project to aggregate RSS Feeds
