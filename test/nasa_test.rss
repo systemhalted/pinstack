@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Breaking News</title>
+ <description>A RSS news feed containing the latest NASA news articles and press releases.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/breaking_news.rss" />
+ <language>en-us</language>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>NASA Names University Teams to Take on Aeronautics Research Challenges</title>
+ <link>http://www.nasa.gov/press-release/nasa-names-university-teams-to-take-on-aeronautics-research-challenges</link>
+ <description>NASA has selected four teams of university faculty and students to solve key challenges facing the future of air travel as part of the agency’s University Leadership Initiative.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/uli-round-6-team-leads_1.jpg?itok=ZAGPDzAl" length="1545190" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-names-university-teams-to-take-on-aeronautics-research-challenges</guid>
+ <pubDate>Fri, 10 Mar 2023 12:33 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>486081</dc:identifier>
+</item>
+ <item> <title>NASA’s State Fact Sheets Highlight Economic Impact in All 50 States, DC</title>
+ <link>http://www.nasa.gov/press-release/nasa-s-state-fact-sheets-highlight-economic-impact-in-all-50-states-dc</link>
+ <description>As a follow-up to its biennial report demonstrating the economic impact of NASA nationwide, the agency released new state-specific information on Monday. Each of the 51 fact sheets, which are the first drafted by the agency, showcase how investments in NASA benefit humanity.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa_meatball_1_1.jpeg?itok=H6_gseww" length="85798" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-s-state-fact-sheets-highlight-economic-impact-in-all-50-states-dc</guid>
+ <pubDate>Fri, 10 Mar 2023 11:13 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>486067</dc:identifier>
+</item>
+ <item> <title>La NASA y CSA asignarán astronautas para Artemis II</title>
+ <link>http://www.nasa.gov/press-release/la-nasa-y-csa-asignar-n-astronautas-para-artemis-ii</link>
+ <description>La NASA y la Agencia Espacial Canadiense (CSA, por sus siglas en inglés) anunciarán los cuatro astronautas que se aventurarán a los alrededores de la Luna. El anuncio se dará durante un acto que se celebrará a las 11 a.m. EDT (10 a.m. CDT) del lunes 3 de abril en el Campo Ellington del Centro Espacial Johnson de la NASA en Houston.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/artemis_ii_graphics_0.jpg?itok=0qrOHSd8" length="4313461" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/la-nasa-y-csa-asignar-n-astronautas-para-artemis-ii</guid>
+ <pubDate>Fri, 10 Mar 2023 09:05 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>486061</dc:identifier>
+</item>
+ <item> <title>NASA, Canadian Space Agency to Assign Artemis II Moon Astronauts</title>
+ <link>http://www.nasa.gov/press-release/nasa-canadian-space-agency-to-assign-artemis-ii-moon-astronauts</link>
+ <description>NASA and CSA (Canadian Space Agency) will announce during an event at 11 a.m. EDT (10 a.m. CDT) on Monday, April 3, from NASA Johnson Space Center’s Ellington Field in Houston, the four astronauts who will venture around the Moon. Traveling aboard NASA’s Orion spacecraft during Artemis II, the mission is the first crewed flight test on the agency’s</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/artemis_ii_graphics.jpg?itok=FcjdVQZi" length="4313461" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-canadian-space-agency-to-assign-artemis-ii-moon-astronauts</guid>
+ <pubDate>Fri, 10 Mar 2023 08:11 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>486059</dc:identifier>
+</item>
+ <item> <title>President’s Fiscal Year 2024 Budget Strengthens NASA, Space Economy</title>
+ <link>http://www.nasa.gov/press-release/president-s-fiscal-year-2024-budget-strengthens-nasa-space-economy</link>
+ <description>The Biden-Harris Administration Thursday released the President’s Budget for Fiscal Year 2024, and it will allow NASA to continue exploring the secrets of the universe for the benefit of all through Artemis, the Mars Sample Return mission, and other efforts.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa_meatball_1.jpg?itok=GPrBmBv4" length="85798" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/president-s-fiscal-year-2024-budget-strengthens-nasa-space-economy</guid>
+ <pubDate>Thu, 09 Mar 2023 13:59 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>486041</dc:identifier>
+</item>
+ <item> <title>NASA Sets Coverage for Next SpaceX Resupply Launch to Space Station</title>
+ <link>http://www.nasa.gov/press-release/nasa-sets-coverage-for-next-spacex-resupply-launch-to-space-station-0</link>
+ <description>NASA and SpaceX are targeting 8:30 p.m. EDT Tuesday, March 14, to launch the company’s 27th commercial resupply mission to the International Space Station. Liftoff will be from Launch Complex 39A at the NASA’s Kennedy Space Center in Florida. Launch timing is dependent upon the undocking and return of NASA’s SpaceX Crew-5.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/52229383064_b523d921c4_o.jpeg?itok=ymccZ9Sh" length="354564" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-sets-coverage-for-next-spacex-resupply-launch-to-space-station-0</guid>
+ <pubDate>Thu, 09 Mar 2023 09:26 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>486029</dc:identifier>
+</item>
+ <item> <title>Coverage Set as NASA’s SpaceX Crew-5 Prepares to Splashdown</title>
+ <link>http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-5-prepares-to-splashdown</link>
+ <description>NASA will provide coverage of the agency’s SpaceX Crew-5 mission return to Earth from the International Space Station, beginning with undocking coverage live at 12 a.m. EST on Saturday, March 11. The SpaceX Dragon spacecraft is scheduled to undock from the space station at 2:05 a.m., to begin the journey home.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/crew_5_return.jpg?itok=pejXZ4IB" length="535622" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-5-prepares-to-splashdown</guid>
+ <pubDate>Thu, 09 Mar 2023 09:01 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>486026</dc:identifier>
+</item>
+ <item> <title>NASA Sets Coverage for Annual Address, Budget Media Call in March</title>
+ <link>http://www.nasa.gov/press-release/nasa-sets-coverage-for-annual-address-budget-media-call-in-march</link>
+ <description>Administrator Bill Nelson will broadcast his annual State of NASA remarks at 3 p.m. EST on Thursday, March 9. The event will air on NASA Television, the NASA app, and the agency’s website.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa_meatball_1.jpg?itok=GPrBmBv4" length="85798" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-sets-coverage-for-annual-address-budget-media-call-in-march</guid>
+ <pubDate>Wed, 08 Mar 2023 18:09 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>486023</dc:identifier>
+</item>
+ <item> <title>NASA, Axiom Space to Reveal Artemis Moon Mission Spacesuit</title>
+ <link>http://www.nasa.gov/press-release/nasa-axiom-space-to-reveal-artemis-moon-mission-spacesuit</link>
+ <description>A spacesuit prototype of what NASA astronauts, including the first woman, plan to wear on the surface of the Moon during the agency’s Artemis III mission, is set for reveal during a televised event hosted by Axiom Space beginning at 10:30 a.m. EDT (9:30 a.m. CDT) Wednesday, March 15, from Space Center Houston in Texas.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/as11-40-5878_large.jpg?itok=LOUcGUCU" length="515279" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-axiom-space-to-reveal-artemis-moon-mission-spacesuit</guid>
+ <pubDate>Wed, 08 Mar 2023 16:56 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>486022</dc:identifier>
+</item>
+ <item> <title>NASA, Smithsonian to Discuss Air Quality Satellite Instrument</title>
+ <link>http://www.nasa.gov/press-release/nasa-smithsonian-to-discuss-air-quality-satellite-instrument</link>
+ <description>Media are invited to a joint briefing with NASA and The Smithsonian Astrophysical Observatory at 9 a.m. EDT Tuesday, March 14, to discuss the first space-based instrument to observe major air pollutants across North America every hour during the daytime.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/tempo_cover_image.jpg?itok=mCrKK3lC" length="3864048" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-smithsonian-to-discuss-air-quality-satellite-instrument</guid>
+ <pubDate>Wed, 08 Mar 2023 15:02 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>486017</dc:identifier>
+</item>
+</channel>
+</rss>
